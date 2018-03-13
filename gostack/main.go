@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-    s := New()
+    s := main.New()
     s.Push(0)
     s.Push(1)
     s.Pop()
