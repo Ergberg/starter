@@ -2,7 +2,7 @@ package main
 
 import (
     "fmt"
-    "main"
+    "github.com/ergberg/starter/gostack/main"
 )
 
 func main() {
