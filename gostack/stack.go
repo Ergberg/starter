@@ -1,4 +1,4 @@
-package stack
+package main
 
 type Stack struct {
 	stack []interface{}
